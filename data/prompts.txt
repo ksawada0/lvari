@@ -1,0 +1,100 @@
+DNA polymerase is an enzyme responsible for synthesizing new DNA strands during replication.
+Markov processes are memoryless, meaning the probability of transitioning to the next state depends only on the current state.
+The traveling salesman problem (TSP) is an NP-hard optimization problem in computer science.
+Category theory is a branch of mathematics that studies objects and morphisms between them.
+Nash equilibrium in game theory occurs when no player can improve their outcome by changing their strategy unilaterally.
+Genetic mutations can occur due to errors in DNA replication or environmental factors like radiation.
+Breadth-first search (BFS) is a graph traversal algorithm that explores all vertices at the current depth before moving to the next depth level.
+Functors in category theory are mappings between categories that preserve the structure of objects and morphisms.
+In zero-sum games, one player’s gain is exactly equal to the other player’s loss.
+Cloud computing enables on-demand access to computing resources over the internet.
+Infrastructure as a Service (IaaS) provides virtualized computing resources like servers and storage.
+Platform as a Service (PaaS) offers a framework for developers to build and deploy applications.
+Software as a Service (SaaS) delivers software applications over the internet, typically on a subscription basis.
+Serverless computing allows developers to focus on code without managing underlying server infrastructure.
+Amazon Web Services (AWS), Microsoft Azure, and Google Cloud Platform (GCP) are leading cloud service providers.
+Virtualization technology is a foundation for creating virtual servers in cloud computing.
+Multi-cloud strategies involve using services from multiple cloud providers.
+Kubernetes is an open-source platform for automating the deployment and scaling of containerized applications.
+Edge computing reduces latency by processing data closer to the source or end user.
+DNA polymerase is an enzyme responsible for synthesizing new DNA strands during replication.
+The central dogma of molecular biology states that genetic information flows from DNA to RNA to protein.
+Markov processes are memoryless, meaning the probability of transitioning to the next state depends only on the current state.
+The traveling salesman problem (TSP) is an NP-hard optimization problem in computer science.
+Category theory is a branch of mathematics that studies objects and morphisms between them.
+Nash equilibrium in game theory occurs when no player can improve their outcome by changing their strategy unilaterally.
+Humans have more than five senses, including balance and temperature.
+The oceans contain more historical artifacts than all the world's museums combined.
+A polar bear’s fur is not white but transparent.
+The largest volcano in the solar system is on Mars.
+Dragonflies are some of the most efficient hunters in the animal kingdom.
+Gold has been discovered on every continent on Earth.
+A jellyfish’s body is about 95% water.
+Some spiders can glide through the air using their silk threads.
+Platypuses lay eggs.
+The heart of a hummingbird beats over 1,000 times per minute.
+The Amazon River once flowed in the opposite direction.
+A blue whale can eat up to four tons of krill in a single day.
+Some lizards can detach their tails to escape predators.
+The majority of the oxygen on Earth is produced by oceanic plankton.
+Sloths can take up to a month to digest a single meal.
+Glass is actually a very slow-moving liquid.
+A polar bear’s fur is not white but transparent.
+The largest volcano in the solar system is on Mars.
+Dragonflies are some of the most efficient hunters in the animal kingdom.
+Gold has been discovered on every continent on Earth.
+A jellyfish’s body is about 95% water.
+Some spiders can glide through the air using their silk threads.
+Platypuses lay eggs.
+The heart of a hummingbird beats over 1,000 times per minute.
+The Amazon River once flowed in the opposite direction.
+A blue whale can eat up to four tons of krill in a single day.
+Some lizards can detach their tails to escape predators.
+The majority of the oxygen on Earth is produced by oceanic plankton.
+Sloths can take up to a month to digest a single meal.
+Glass is actually a very slow-moving liquid.
+The majority of the oxygen on Earth is produced by oceanic plankton.
+Sloths can take up to a month to digest a single meal.
+Glass is actually a very slow-moving liquid.
+The heart of a blue whale is the size of a small car.
+A bolt of lightning contains enough energy to toast 100,000 slices of bread.
+Giraffes only need 5 to 30 minutes of sleep per day.
+Some frogs can survive being frozen solid and then thawed.
+A newborn kangaroo is about the size of a jellybean.
+The Milky Way galaxy will collide with the Andromeda galaxy in about 4.5 billion years.
+True or False: The heaviest living organism is a forest of aspen trees connected by a single root system.
+Some snakes can survive for months without eating.
+The fingerprints of each individual tiger are unique, similar to humans.
+Peanuts are not nuts; they are legumes.
+The moon is slowly moving away from Earth.
+A starfish can regenerate its entire body from just one arm.
+Rainbows can appear as full circles, but the ground usually obscures the bottom half.
+The Sahara Desert used to be a lush, green area with lakes and vegetation.
+Humans shed around 600,000 particles of skin every hour.
+A cockroach can live for weeks without its head.
+Some animals, like axolotls, can regenerate limbs.
+The Earth's core is hotter than the surface of the sun.
+There is a species of frog that freezes completely in winter and thaws in the spring without harm.
+All clownfish are born male and can change sex to become female.
+Whales can communicate with each other across hundreds of miles in the ocean.
+The speed of a sneeze can reach up to 100 miles per hour.
+Female lions do the majority of the hunting.
+Elephants can "hear" with their feet by sensing vibrations.
+Sloths can hold their breath longer than dolphins.
+A cat's purring has been shown to have healing properties.
+Some species of ants farm aphids for food.
+A day on Saturn lasts only about 10.7 hours.
+Earth is the only planet not named after a god.
+Male seahorses are the ones that give birth.
+The human brain uses the same amount of power as a 10-watt light bulb.
+Butterflies can taste with their feet.
+Dolphins have names for each other.
+A group of crows is called a "murder."
+The mantis shrimp has the most complex eyes in the animal kingdom.
+The ozone layer protects Earth from harmful ultraviolet radiation.
+Mars appears red because of iron oxide, or rust, on its surface.
+The longest time a chicken has been recorded to live without its head is 18 months.
+Butterflies have been known to drink turtle tears.
+The human nose can distinguish over a trillion different smells.
+Bananas are berries, but strawberries are not.
+Bees can recognize human faces.
