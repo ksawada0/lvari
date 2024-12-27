@@ -46,7 +46,7 @@ done
 # Main loop to run the script with varying number of processes
 for m in {1..6}; do
     for n in 3 9; do
-        echo "mpiexec -n $processes python main_mpi.py -m $m -r $n"
-        mpiexec -n "$processes" python main_mpi.py "-m $m" "-r $n"
+        echo "mpiexec -n $processes python3 main_mpi.py -m $m -r $n"
+        mpiexec -n "$processes" python3 main_mpi.py "-m $m" "-r $n"
     done
 done

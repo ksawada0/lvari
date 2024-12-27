@@ -25,19 +25,19 @@ echo "Results will be logged to: $log_file"
 # Run tests
 {
     print_section "Serial"
-    echo "python main_serial.py"
-    python main_serial.py
+    echo "python3 main_serial.py"
+    python3 main_serial.py
     echo ""
 
     print_section "Parallel - Shared Memory"
-    echo "python main_shared_mem.py"
-    python main_shared_mem.py
+    echo "python3 main_shared_mem.py"
+    python3 main_shared_mem.py
     echo ""
 
     print_section "Parallel - MPI"
     for n in 4 3 2 1; do
-        echo "mpirun -n $n python main_mpi.py"
-        mpirun -n "$n" python main_mpi.py
+        echo "mpirun -n $n python3 main_mpi.py"
+        mpirun -n "$n" python3 main_mpi.py
         echo ""
     done
 } | tee "$log_file"
