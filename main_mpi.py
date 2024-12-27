@@ -84,6 +84,7 @@ def write_to_csv(file_path, data):
 def process_task(task, rank=-1):
     """Process a single task and return results with prompt_id."""
     prompt_id, model, prompt, role, server, original_prompt = task
+    agree = 0
     start_time = time.time()
     
     # Dynamically generate the prompt for Layer 3
