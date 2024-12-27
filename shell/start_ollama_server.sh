@@ -64,6 +64,7 @@ export OLLAMA_PORT
 export OLLAMA_NUM_PARALLEL
 export OLLAMA_MAX_LOADED_MODELS
 export OLLAMA_HOST="http://127.0.0.1:$OLLAMA_PORT"
+export OLLAMA_MODELS=/models
 
 # Set threads via launchctl
 launchctl setenv OMP_NUM_THREADS "$OMP_NUM_THREADS"
